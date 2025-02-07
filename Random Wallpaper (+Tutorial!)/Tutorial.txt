@@ -1,0 +1,11 @@
+So to actually get your images working and gettings turns a wallpapers your gonna need to know which path your images are in.
+
+So, with your .ps1 file, First. I recommend you download Notepad++ at their website here if you dont already have it https://notepad-plus-plus.org/
+and then right click your .ps1 file and select "Edit with Notepad++" and since im actually a good person i added labels. Now in the $wallpapers Replace the path
+with the path of your 2 desired wallpapers. You can find the path of your pictures by right clicking them and selecting properties and then opening regular notepad and the path you see in properties
+you wanna copy and pasta in notepad and then with your file select it and hit the F2 button and do Ctrl+X. Now it may seem like the name is completely erased but no worry as windows will
+auto put the name back since no name can be empty in windows without using a special character to make it LOOK invisible. Now, in notepad at the end of the already copied path paste the name
+and make sure its in quotes. And now do that again for the other image file. And then replace the paths in the .ps1 file with your paths. Also if you can select "Copy as path" when you select a photo
+file and since im on Windows 10 for some reason it doesnt ork for me so yeah, if you got that option use it! It'll copy the path of the image (with quotes aswell!) and you can replace both paths in the .ps1 file.
+
+And congrats! Save the .ps1 file and run it and then bam! It'll make a file in the startup folder that changes the wallpaper by choosing a random one from the paths! Currently more than 2 wallpapers hasn't been tested so if you wanna try to do it, go for it!
