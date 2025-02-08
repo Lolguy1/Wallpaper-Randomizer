@@ -3,7 +3,7 @@ This .ps1 file will switch your wallpaper to a random one you have in a certain 
 
 # Some info that is important
 
-This program was made because i was kinda bored having to pick between wallpapers so i made a quick and easy .ps1 files that randomly changes your wallpaper everytime you reboot. If you want to switch between more than 1 wallpaper tweak the code in the .ps1 file to have another path I guess. Also if you get kinda lucky and have the same wallpaper 2 or 3 times in a row. do not complain. Computers cant be COMPLETELY random. Any issues please post in the "Issues" tab.
+This program was made because i was kinda bored having to pick between wallpapers so i made a quick and easy .ps1 file that randomly changes your wallpaper everytime you reboot. If you want to switch between more than 1 wallpaper tweak the code in the .ps1 file to have another path I guess. Also if you get kinda lucky and have the same wallpaper 2 or 3 times in a row. do not complain. Computers cant be COMPLETELY random. Any issues please post in the "Issues" tab.
 
 # Some problems that *could* happen. Be careful with formats
 
